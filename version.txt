@@ -1,8 +1,8 @@
 {
-  "version": "V1",
-  "minimum_version": "V1",
+  "version": "V2",
+  "minimum_version": "V2",
 
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "New Update Apk Required Contact To Owner !!",
 
   "announcement": false,
