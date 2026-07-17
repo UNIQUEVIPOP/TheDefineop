@@ -3,7 +3,10 @@
   "minimum_version": "V2",
 
   "maintenance_mode": false,
-  "maintenance_message": "New Update Apk Required Contact To Owner !!",
+  "maintenance_message": "Server Under Maintenance",
+
+  "force_update_title": "New Loader Update",
+  "force_update_message": "New Loader Required Contact Owner :- @GB_SELLER",
 
   "announcement": false,
   "announcement_title": "Anticheat High ⚠️",
