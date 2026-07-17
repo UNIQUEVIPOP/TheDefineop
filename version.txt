@@ -12,5 +12,9 @@
   "announcement_title": "Anticheat High ⚠️",
   "announcement_message": "Soon New Update Please Wait 🙏",
 
+  "changelog": true,
+  "changelog_title": "What's New 🚀",
+  "changelog_message": "• Fixed Login Issues\n• Improved Stability\n• Faster Download Speed\n• Minor Bug Fixes",
+
   "telegram": "https://t.me/GB_SELLER"
 }
