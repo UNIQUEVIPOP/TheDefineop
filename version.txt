@@ -1,5 +1,13 @@
 {
   "version": "V1",
-  "maintenance_mode": true,
-  "maintenance_message": "New Update Apk Required Contact To Owner :- @GB_SELLER"
-}
+  "minimum_version": "V1",
+
+  "maintenance_mode": false,
+  "maintenance_message": "New Update Apk Required Contact To Owner !! ",
+
+  "announcement": false,
+  "announcement_title": "Anticheat High ⚠️",
+  "announcement_message": "Soon New Upadte Please Wait 🙏",
+
+  "telegram": "https://t.me/GB_SELLER"
+}/t
