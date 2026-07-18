@@ -1,6 +1,6 @@
 {
-  "version": "V4",
-  "minimum_version": "V1",
+  "version": "V5",
+  "minimum_version": "V2",
 
   "maintenance_mode": false,
   "maintenance_message": "Server Under Maintenance",
