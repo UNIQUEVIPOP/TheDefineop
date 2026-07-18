@@ -1,8 +1,8 @@
 {
-  "version": "V3",
+  "version": "V4",
   "minimum_version": "V1",
 
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "Server Under Maintenance",
 
   "force_update_title": "New Loader Update",
@@ -17,4 +17,4 @@
   "changelog_message": "• Fixed Login Issues\n• Improved Stability\n• Faster Download Speed\n• Minor Bug Fixes",
 
   "telegram": "https://t.me/GB_SELLER"
-}
+"V3"V3"
