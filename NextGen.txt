@@ -1,12 +1,12 @@
 {
-  "version": "V4",
+  "version": "V3",
   "minimum_version": "V2",
 
   "maintenance_mode": false,
   "maintenance_message": "Server Under Maintenance",
 
   "force_update_title": "New Loader Update",
-  "force_update_message": "New Loader Required Contact Owner :- @MR_ADARSH_YTs",
+  "force_update_message": "New Loader Required Contact Owner :- @GB_SELLER",
 
   "announcement": false,
   "announcement_title": "Anticheat High ⚠️",
@@ -16,5 +16,5 @@
   "changelog_title": "What's New 🚀",
   "changelog_message": "• Fixed Lag Issues\n• Improved Stability\n• New Ui Design\n• Minor Bug Fixes",
 
-  "telegram": "https://t.me/MR_ADARSH_YTs"
+  "telegram": "https://t.me/GB_SELLER"
 }
