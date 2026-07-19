@@ -2,7 +2,7 @@
   "version": "V5",
   "minimum_version": "V2",
 
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "Server Under Maintenance",
 
   "force_update_title": "New Loader Update",
