@@ -1,5 +1,5 @@
 {
-  "version": "V3",
+  "version": "V4",
   "minimum_version": "V2",
 
   "maintenance_mode": false,
